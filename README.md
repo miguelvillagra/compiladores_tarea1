@@ -1,2 +1,3 @@
 # compiladores_tarea1
-tarea de compiladores
+tarea 1 de compiladores
+(Trabajo hecho de forma indivual)
