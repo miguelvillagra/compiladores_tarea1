@@ -3,6 +3,8 @@ tarea 1 de compiladores
 (Trabajo hecho de forma indivual)
 
 
+<p> 
+
 ########################################################################################################
 # Implementar un analizador léxico para el lenguaje Json simplificado.                                 #
 # Recibe un archivo fuente Json, debe realizar un análisis léxico reconociendo tokens,                 #
@@ -12,3 +14,5 @@ tarea 1 de compiladores
 # un mensaje de error y continuar con la siguiente línea del archivo fuente.                           #
 # Utilizar el lenguaje python.                                                                         #
 ########################################################################################################
+
+</p>
